@@ -1,6 +1,6 @@
 ### Description
 
-This is our custom Key Points detection network
+Most of this repository is taken from MITDriverless team
 
 ## Requirements:
 
